@@ -8,4 +8,5 @@ class About : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_about)
     }
+    //change
 }
